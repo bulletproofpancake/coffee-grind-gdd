@@ -5,9 +5,10 @@
 > > [!hint]
 > > Present screenshots of the games and media you are referencing
 
-- **Visual Style:** (e.g., Low-Poly 3D, Pixel Art, Vector 2D, Realistic)
-- **Reference Titles:** (List comparative games for lighting, asset style, or UI design)
-- **Color Palette:** (Define functional color groupings (e.g., background, foreground, interactive elements))
+- **Visual Style:** Vector 2D
+- **Reference Titles:** [Autumn Cafe by Goodgis](https://youtu.be/DLsgEDn_bb0?si=wnXvOvlKhCgeMRMr)
+![[Pasted image 20261108223740.png]]
+- **Color Palette:** TBA
 # User Interface (HUD)
 
 > [!info] Guideline
