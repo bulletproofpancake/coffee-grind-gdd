@@ -49,4 +49,10 @@ private void Update()
 ```
 
 >[!NOTE]
-> I am unsure of which statement made this work prior to previous setups. I have a hunch that it might be `InputSystem.AddDevice<StepCounter>()`, but I am also leaving the usage of having `InputSystem.EnableDevice(StepCounter.current)`   
+> I am unsure of which statement made this work prior to previous setups. I have a hunch that it might be `InputSystem.AddDevice<StepCounter>()`, but I am also leaving the usage of having `InputSystem.EnableDevice(StepCounter.current)` as it might become useful in the future.   
+
+# References
+- https://discussions.unity.com/t/input-system-unresponsive-android-accelerometer-and-stepcounter/904467
+- https://discussions.unity.com/t/stepcounter-readvalue-always-returns-zero/841471/3
+- https://discussions.unity.com/t/help-with-sensors-using-the-inputsystem/796185
+- https://discussions.unity.com/t/how-do-i-track-my-user-s-steps-while-app-is-minimised/351827/2
