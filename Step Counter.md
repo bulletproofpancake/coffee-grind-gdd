@@ -12,6 +12,26 @@ With that said, there are a few things to consider when implementing the step co
 
 ```csharp
 #if PLATFORM_ANDROID
+	using UnityEngine.Android; // add Android namespace for Permission class
 
+	// Place in Start
+	if(!Permission.HasUserAuthorizedPermission("android.permission.ACTIVITY_RECOGNITION"))
+	{
+		Permission.RequestUserPermission("android.permission.ACTIVITY_RECOGNITION");
+	}
+#endif
+```
+
+3.  Add the `StepCounter` sensor to the `InputSystem`.
+
+```csharp
+using UnityEngine.InputSystem;
+
+#if PLATFORM_ANDROID
+	// Place in Start
+	if(StepCounter.current == null)
+	{
+		InputSystem.A
+	}
 #endif
 ```
