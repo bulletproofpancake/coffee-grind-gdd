@@ -1,0 +1,1 @@
+Tracking steps can be implemented in Unity by using the [StepCounter Sensor](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.20/api/UnityEngine.InputSystem.StepCounter.html) in Unity's Input System.
