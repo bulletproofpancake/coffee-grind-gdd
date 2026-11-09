@@ -22,7 +22,7 @@ With that said, there are a few things to consider when implementing the step co
 #endif
 ```
 
-3.  Add the `StepCounter` sensor to the `InputSystem`.
+3.  Add the `StepCounter` sensor to the `InputSystem` and enable it.
 
 ```csharp
 using UnityEngine.InputSystem;
@@ -31,7 +31,22 @@ using UnityEngine.InputSystem;
 	// Place in Start
 	if(StepCounter.current == null)
 	{
-		InputSystem.A
+		InputSystem.AddDevice<StepCounter>();
 	}
+	
+	InputSystem.EnableDevice(StepCounter.current);
 #endif
 ```
+
+4. Read the value of `StepCounter` by calling `StepCounter.current.stepCounter.ReadValue()`, this returns an integer.
+
+```csharp
+private void Update()  
+{  
+    _label.text = StepCounter.current.enabled ? $"Steps: {StepCounter.current.stepCounter.ReadValue():000}" :"StepCounter is Paused.";  
+    if(!StepCounter.current.enabled) InputSystem.EnableDevice(StepCounter.current);  
+}
+```
+
+>[!NOTE]
+> I am unsure of which statement made this work prior to previous setups. I have a hunch that it might be `InputSystem.AddDevice<StepCounter>()`, but I am also leaving the usage of having `InputSystem.EnableDevice(StepCounter.current)`   
