@@ -9,11 +9,7 @@ description: "Let's take a look under the hood of idle and incremental games! Wh
 tags:
   - "clippings"
 ---
-[
-
-**Featured Blog |** This community-written post highlights the best of what the game industry has to offer. Read more like it on the Game Developer Blogs.
-
-](https://www.gamedeveloper.com/keyword/blogs)
+[**Featured Blog |** This community-written post highlights the best of what the game industry has to offer. Read more like it on the Game Developer Blogs.](https://www.gamedeveloper.com/keyword/blogs)
 
 Let's take a look under the hood of idle and incremental games! What do the cost and production formulas look like? Can you estimate progression patterns without manually playing the game? How do you balance multiple elements to keep them interesting?
 

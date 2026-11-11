@@ -9,11 +9,7 @@ description: "The final part of a 3-part, in-depth series on the math of idle ga
 tags:
   - "clippings"
 ---
-[
-
-**Featured Blog |** This community-written post highlights the best of what the game industry has to offer. Read more like it on the Game Developer Blogs.
-
-](https://www.gamedeveloper.com/keyword/blogs)
+[**Featured Blog |** This community-written post highlights the best of what the game industry has to offer. Read more like it on the Game Developer Blogs.](https://www.gamedeveloper.com/keyword/blogs)
 
 The final part of a 3-part, in-depth series on the math of idle games, this time looking at prestige loops and patterns.
 
