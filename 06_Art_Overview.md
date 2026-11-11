@@ -6,8 +6,11 @@
 > > Present screenshots of the games and media you are referencing
 
 - **Visual Style:** Vector 2D
-- **Reference Titles:** [Autumn Cafe by Goodgis](https://youtu.be/DLsgEDn_bb0?si=wnXvOvlKhCgeMRMr)
-![[Pasted image 20261108223740.png]]
+- **Reference Titles:** 
+	- [Autumn Cafe by Goodgis](https://youtu.be/DLsgEDn_bb0?si=wnXvOvlKhCgeMRMr)
+		![[Pasted image 20261108223740.png]]
+	- [AdVenture Capitalist by Hyper Hippo Entertainment](https://store.steampowered.com/app/346900/AdVenture_Capitalist/)
+		
 - **Color Palette:** TBA
 # User Interface (HUD)
 
