@@ -1,8 +1,4 @@
 # Progression & Resources
-
-> [!info] Guideline
-> Categorize in-game currencies, acquisition methods, expenditure paths, and character stat progression
-
 - **Primary Currency:** Steps
 - **Secondary Currency:** Coins
 ## Economic Inflow/Outflow Matrix
