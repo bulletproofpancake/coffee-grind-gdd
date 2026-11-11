@@ -1,17 +1,14 @@
 # Art & Visual Style
-
-> [!info] Guideline
-> Define aesthetic benchmarks, visual rules, and reference materials.
-> > [!hint]
-> > Present screenshots of the games and media you are referencing
-
-- **Visual Style:** Vector 2D
+- **Visual Style:** Vector 2D, Anthropomorphic
 - **Reference Titles:** 
 	- [Autumn Cafe by Goodgis](https://youtu.be/DLsgEDn_bb0?si=wnXvOvlKhCgeMRMr)
 		![[Pasted image 20261108223740.png]]
 	- [AdVenture Capitalist by Hyper Hippo Entertainment](https://store.steampowered.com/app/346900/AdVenture_Capitalist/)
-		
-- **Color Palette:** TBA
+		![[Pasted image 20261111220030.png]]
+	- [Egg, Inc. by Auxbrain Inc](https://play.google.com/store/apps/details?id=com.auxbrain.egginc&hl=en-US)
+		![[Pasted image 20261111220453.png]]![[Pasted image 20261111220509.png]]
+- **Color Palette:**
+		![[Pasted image 20261111220155.png]]
 # User Interface (HUD)
 
 > [!info] Guideline
