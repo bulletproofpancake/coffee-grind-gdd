@@ -1,7 +1,5 @@
 Since the game does not have levels in the traditional sense, these levels will be describing the different screens that the player must interact with.
 # Level Flow Breakdown
-> [!info] Guideline
-> Sequence the introduction of environments, spatial hazards, mechanics, and milestone encounters across the progression curve.
 
 | Stage / Zone       | Visual Theme                            | Introduced Mechanic                     | Primary Hazard / Threat  | Key Encounter / Boss       |
 | ------------------ | --------------------------------------- | --------------------------------------- | ------------------------ | -------------------------- |
