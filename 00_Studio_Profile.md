@@ -1,4 +1,4 @@
-
+![[73495224_426495938044518_8708165472471744512_n.png]]
 ## Studio Tagline / Mission:
 Isip Bata aims to deliver imaginative experiences rooted in Filipino culture.
 # Resource Links
