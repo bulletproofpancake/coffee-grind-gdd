@@ -21,7 +21,7 @@ The game will be released on mobile platforms as it makes use of the device's se
 | ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | Step to Progress         | The user's steps are the main indicator of progression | The player only earns money or unlocks something by reaching a certain number of steps                        |
 | Coffee Bean and Tea Leaf | The theme of the game revolves around cafes            | All items in the game are based on coffee and tea drinks, food and desserts found on cafes in the Philippines |
-| Red Cat Ramen            | The workers of the cafe are animals                    | The characters found in the game are animals, including the player. Doesn't necessarily have to be cats.      |
+| Anthropomorphism         | The workers of the cafe are animals                    | The characters found in the game are animals, including the player. Doesn't necessarily have to be cats.      |
 
 
 
