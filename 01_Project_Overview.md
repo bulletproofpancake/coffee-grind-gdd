@@ -1,8 +1,6 @@
 # High Concept & Pitch
 
-> [!info] Game Title
-> Insert Game Title Image here.
-
+![[Designer.png|631]]
 An incremental, cozy game where you manage a coffee shop by counting your steps.
 
 ## Genre
