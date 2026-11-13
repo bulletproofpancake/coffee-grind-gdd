@@ -10,3 +10,11 @@
 - **Color Palette:**
 		![[Pasted image 20261111220155.png|387]]
 # User Interface (HUD)
+
+![[Kitchen_View.png|288]]
+Kitchen View
+
+![[Recipe_View.png|288]]
+Recipe View
+
+![[Shop_View.png|288]]Shop View
