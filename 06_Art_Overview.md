@@ -10,8 +10,3 @@
 - **Color Palette:**
 		![[Pasted image 20261111220155.png|387]]
 # User Interface (HUD)
-
-> [!info] Guideline
-> Detail screen overlay elements present during gameplay.
-> > [!hint]
-> > Create mockups of your user interface screens

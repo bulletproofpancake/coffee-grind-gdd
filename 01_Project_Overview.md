@@ -1,10 +1,9 @@
 # High Concept & Pitch
 
-![[Designer.png|631]]
-An incremental, cozy game where you manage a coffee shop by counting your steps.
+![[Coffee Grind.jpg]]
 
+An incremental, cozy game where you manage a coffee shop by counting your steps.
 ## Genre
-- [[Idle]]
 - [[Incremental]]
 - [[Cozy]]
 ## Target Audience
