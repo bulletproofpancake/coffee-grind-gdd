@@ -11,7 +11,7 @@ graph LR
 - Earn profits: When a player serves an item, they gain currency which they can use to unlock items
 - Unlock items: An item can be unlocked by paying a certain amount, but needs a specific number of steps in order to serve to customers
 # Controls & Player Actions
-- **Camera View:** 2D static / Horizontal Scrolling
+- **Camera View:** 2D static 
 - **Movement Profile:** Menu-based navigation
 
 | Input | Action             | Context / Notes                                               |
